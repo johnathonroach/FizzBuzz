@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="/css/app.css" />
     </head>
     <body>
+        <div id="app"></div>
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">Fizz Buzz</div>
